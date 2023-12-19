@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! Passionate Cybercurity and IT student <h1>
+<h1>Hi, I'm Daniel! Passionate Cybercurity analyst <h1>
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
